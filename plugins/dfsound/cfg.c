@@ -113,7 +113,7 @@ void ReadConfig(void)
 	iXAPitch=0;
 	iSPUIRQWait=1;
 	//iUseTimer=0;
-	iUseTimer=0;
+	iUseTimer=2;
 	iUseReverb=0;
 	iUseInterpolation=0;
 	iDisStereo=0;
